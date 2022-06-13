@@ -1,0 +1,13 @@
+
+.signIn__register__button{
+    width: 100%;
+    /* background-color: #292563; */
+    background: linear-gradient(to right, #FE8B3B, #F95185, #DD54A2, #8756EC);
+    border-radius: 30px;
+    /* border:2px solid black; */
+    border: none;
+    height: 50px;
+    font-weight: 800;
+    font-size: 20px;
+    color: white;
+}
